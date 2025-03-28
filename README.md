@@ -1,4 +1,4 @@
-#About me
+# About Me: 
 
 🔭 I have recently graduated from Drexel University with Masters in Business Analytics. Currently Looking for full-time roles as Data Engineer.
 
