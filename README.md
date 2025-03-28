@@ -1,3 +1,4 @@
+#About me
 🔭 I have recently graduated from Drexel University with Masters in Business Analytics. Currently Looking for full-time roles as Data Engineer.
 
 🌱 I’m actively exploring opportunities in Data Engineering, Data Analytics, Cloud Computing, Product Analyst and Business Analyst roles.
